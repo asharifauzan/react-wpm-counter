@@ -50,7 +50,7 @@ export default function Main() {
   const wpm      = arrayWords.length * ((Math.ceil(xMinute) * 60) / duration)
 
   return (
-    <div>
+    <div className="container">
       <div className='quote'>
         {
           arrayChars.map((quote, key)=> <span key={key}>{quote}</span>)
