@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/asharifauzan/react-wpm-counter/static/css/main.4ef42f45.css",
+    "main.js": "/asharifauzan/react-wpm-counter/static/js/main.a7a3f365.js",
+    "index.html": "/asharifauzan/react-wpm-counter/index.html",
+    "main.4ef42f45.css.map": "/asharifauzan/react-wpm-counter/static/css/main.4ef42f45.css.map",
+    "main.a7a3f365.js.map": "/asharifauzan/react-wpm-counter/static/js/main.a7a3f365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef42f45.css",
+    "static/js/main.a7a3f365.js"
+  ]
+}
