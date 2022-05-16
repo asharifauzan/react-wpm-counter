@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/asharifauzan/react-wpm-counter/static/css/main.4ef42f45.css",
-    "main.js": "/asharifauzan/react-wpm-counter/static/js/main.1c46c5cf.js",
-    "index.html": "/asharifauzan/react-wpm-counter/index.html",
-    "main.4ef42f45.css.map": "/asharifauzan/react-wpm-counter/static/css/main.4ef42f45.css.map",
-    "main.1c46c5cf.js.map": "/asharifauzan/react-wpm-counter/static/js/main.1c46c5cf.js.map"
+    "main.css": "/react-wpm-counter/static/css/main.4ef42f45.css",
+    "main.js": "/react-wpm-counter/static/js/main.1c46c5cf.js",
+    "index.html": "/react-wpm-counter/index.html",
+    "main.4ef42f45.css.map": "/react-wpm-counter/static/css/main.4ef42f45.css.map",
+    "main.1c46c5cf.js.map": "/react-wpm-counter/static/js/main.1c46c5cf.js.map"
   },
   "entrypoints": [
     "static/css/main.4ef42f45.css",
